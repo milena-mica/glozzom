@@ -1,0 +1,21 @@
+{
+  "name": "glozzom",
+  "version": "1.0.0",
+  "description": "Multi page Bootstrap theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Milena Trajkovic",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "htmltidy": "0.0.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
