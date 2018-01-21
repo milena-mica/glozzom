@@ -22,7 +22,7 @@
   background: url("../img/image3.jpg");
   background-size: cover; }
 
-#home-icons .fa {
+.fa {
   font-size: 55px; }
 
 #home-heading {
@@ -41,3 +41,14 @@
   left: 0;
   width: 100%;
   height: 100%; }
+
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background: url("../img/media.jpg");
+  background-position: 0 -300px;
+  background-attachment: fixed;
+  text-align: center;
+  color: #fff; }
+  #video-play a {
+    color: #fff; }
